@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-We help you understand your software behavior. 
+Welcome to the public repositories of APTA Technologies. Here you can find
+
+### APTAnomaly ###
+
+A Velociraptor artifact helping incident responders to find malicious acitivites in Windows event logs faster.
+
+### logdiff ###
+
+A Github Action to quickly identify differences in program execution traces.
 
 Find out more on apta.tech
 
