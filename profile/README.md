@@ -15,7 +15,7 @@ A Github Action to quickly identify differences in program execution traces.
 
 Find out more on [www.apta.tech](https://www.apta.tech).
 
-You can follow us on <a rel="me" href="https://infosec.exchange/@aptatech">@aptatech@infosec.exchange on Mastodon</a>
+You can follow us on  [@aptatech@infosec.exchange](https://infosec.exchange/@aptatech).
 
 <!--
 
